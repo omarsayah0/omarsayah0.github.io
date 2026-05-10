@@ -62,11 +62,11 @@
 
   // ── EDIT THESE TITLES ────────────────────────────────────
   const titles = [
+    'Computer Vision Engineer',
     'AI Engineer',
-    'Software Engineer',
     'Machine Learning Engineer',
     'Deep Learning Engineer',
-    'Computer Vision Engineer',
+    'Software Engineer',
   ];
   // ─────────────────────────────────────────────────────────
 
